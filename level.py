@@ -1,5 +1,3 @@
 print("I am a beginner with git.")
 print("starting to learn Git")
-print("I am in development branch")
-print("I am going to merge two branches with a conflict")
 print("Remote Repository")
